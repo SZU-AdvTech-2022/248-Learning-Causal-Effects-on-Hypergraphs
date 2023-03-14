@@ -1,0 +1,8 @@
+@article{REPO-249,
+    author = "Ma, Jing and Wan, Mengting and Yang, Longqi and Li, Jundong and Hecht, Brent and Teevan, Jaime",
+    journal = "KDD '22",
+    number = "11",
+    title = "{Learning Causal Effects on Hypergraphs}",
+    volume = "1202¨C1212",
+    year = "2022"
+}
